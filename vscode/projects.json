@@ -1,0 +1,38 @@
+[
+	{
+		"name": "af-jd-note",
+		"rootPath": "/Users/1314/Documents/doc/af-jd-note",
+		"paths": [],
+		"tags": ["note"],
+		"enabled": true
+	},
+	{
+		"name": "redis-code",
+		"rootPath": "/Users/1314/Documents/code/redis/redis-2.8.13",
+		"paths": [],
+		"tags": ["code"],
+		"enabled": true
+	},
+	{
+		"name": "af-github-kakabei",
+		"rootPath": "/Users/1314/Documents/github/kakabei.github.io/",
+		"paths": [],
+		"tags": ["note"],
+		"enabled": true
+	},
+	{
+		"name": "obsidian",
+		"rootPath": "/Users/1314/Documents/github/obsidian",
+		"paths": [],
+		"tags": ["note"],
+		"enabled": true
+	},
+	{
+		"name": "configbox",
+		"rootPath": "/Users/1314/Documents/github/configbox",
+		"paths": [],
+		"tags": ["note"],
+		"enabled": true
+	}
+
+]

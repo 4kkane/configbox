@@ -10,4 +10,8 @@ HostName github.com
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/github-kk
 
-
+# github
+Host github.com-4kkane
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/github-4kkane

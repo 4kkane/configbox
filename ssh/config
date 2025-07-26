@@ -1,6 +1,6 @@
-# gitlab
+# jd.com
 Host jd.com
-HostName vrviu.com
+HostName jd.com
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
 
